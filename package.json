@@ -9,6 +9,6 @@
   "author": "Dusan Antonijevic",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.2.0"
+    "electron": "^9.4.0"
   }
 }
